@@ -1,1 +1,1 @@
-# Online-Retail-Customer-Churn-Project
+# Online Retail Customer Churn Project
